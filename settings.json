@@ -83,7 +83,7 @@
     ]
   },
   "editor.stickyScroll.enabled": false,
-  "editor.colorDecorators": false,
+  "editor.colorDecorators": true,
   "editor.codeLens": false,
   "editor.links": false,
   "editor.matchBrackets": "never",
@@ -114,4 +114,5 @@
   "extensions.ignoreRecommendations": true,
   "chat.disableAIFeatures": true
 }
+
 
