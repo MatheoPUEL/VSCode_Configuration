@@ -1,0 +1,7 @@
+# .gitignore
+sync/
+workspaceStorage/
+globalStorage/
+History/
+*.log
+*.tmp
