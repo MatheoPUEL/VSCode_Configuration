@@ -16,7 +16,6 @@
   "explorer.confirmDelete": false,
   "explorer.decorations.badges": false,
   "window.zoomLevel": 3,
-  "window.titleBarStyle": "native",
   "custom-ui-style.electron": {
     "titleBarStyle": "hiddenInset",
     "trafficLightPosition": {
@@ -114,6 +113,7 @@
   "extensions.ignoreRecommendations": true,
   "chat.disableAIFeatures": true
 }
+
 
 
 
