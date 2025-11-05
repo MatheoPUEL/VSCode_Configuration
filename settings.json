@@ -9,9 +9,7 @@
   "breadcrumbs.enabled": false,
   "workbench.sideBar.location": "left",
   "workbench.iconTheme": "material-icon-theme",
-  "material-icon-theme.hidesExplorerArrows": true,
   "workbench.tree.enableStickyScroll": false,
-  "workbench.tree.renderIndentGuides": "none",
   "workbench.tree.indent": 8,
   "explorer.compactFolders": false,
   "explorer.confirmDragAndDrop": false,
@@ -116,3 +114,4 @@
   "extensions.ignoreRecommendations": true,
   "chat.disableAIFeatures": true
 }
+
