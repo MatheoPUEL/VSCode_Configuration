@@ -113,5 +113,6 @@
   "editor.snippetSuggestions": "top",
   "emmet.triggerExpansionOnTab": true,
   "update.mode": "none",
-  "extensions.ignoreRecommendations": true
+  "extensions.ignoreRecommendations": true,
+  "chat.disableAIFeatures": true
 }
